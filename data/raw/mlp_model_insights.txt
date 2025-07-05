@@ -1,0 +1,31 @@
+MLP MODEL ANALYSIS INSIGHTS
+==================================================
+
+1. MODEL PERFORMANCE
+--------------------
+Score Prediction R²: 0.9903
+Score Prediction RMSE: 1.0081
+Rank Prediction R²: 0.9943
+Rank Prediction RMSE: 2.1462
+
+2. FEATURE IMPORTANCE (Average of All Methods)
+----------------------------------------
+1. 1: 0.770
+2. 4: 0.413
+3. 2: 0.330
+4. 0: 0.282
+5. 3: 0.069
+
+3. KEY INSIGHTS
+---------------
+• PERCEPTION and RPC are the most critical factors for NIRF ranking
+• The MLP model shows good predictive power for both score and rank
+• Feature importance varies slightly between different methods
+• Model can be used for ranking improvement recommendations
+
+4. RECOMMENDATIONS FOR COLLEGES
+------------------------------
+• Focus on improving PERCEPTION scores through reputation building
+• Enhance RPC (Research & Professional Practice) capabilities
+• Maintain strong TLR (Teaching, Learning & Resources) scores
+• Use the model to predict potential ranking improvements

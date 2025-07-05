@@ -1,0 +1,28 @@
+NIRF 2023 CUSTOM ANALYSIS SUMMARY
+==================================================
+
+1. STATE-WISE ANALYSIS
+--------------------
+Top 5 states by average score:
+5. Delhi: 63.78 (avg), 7 colleges
+2. Assam: 58.45 (avg), 2 colleges
+20. Uttar Pradesh: 57.36 (avg), 8 colleges
+19. Telangana: 56.62 (avg), 4 colleges
+10. Karnataka: 56.25 (avg), 7 colleges
+
+2. FEATURE IMPORTANCE
+--------------------
+5. PERCEPTION (100): 0.496
+2. RPC (100): 0.380
+1. TLR (100): 0.081
+3. GO (100): 0.031
+4. OI (100): 0.013
+
+3. IMPROVEMENT OPPORTUNITIES
+--------------------
+Top 5 colleges with most improvement potential:
+92. Visvesvaraya Technological University: 50.4
+94. Madurai Kamaraj University: 48.1
+98. Sri Ramachandra Institute of Higher Education and Research: 45.8
+93. Tamil Nadu Agricultural University: 45.2
+95. Shiv Nadar University: 43.1
