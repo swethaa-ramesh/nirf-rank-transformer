@@ -99,11 +99,3 @@ NIRF/
 2. Run the complete pipeline: `python main.py`
 3. View generated visualizations in `data/raw/`
 
-## Next Steps
-
-- Implement MLP modeling for feature importance analysis
-- Perform clustering to group similar colleges
-- Generate actionable recommendations for ranking improvement
-=======
-# nirf-rank-transformer
->>>>>>> 9c04ace4ab82dd218aac595fcda8255ec8cb629d
