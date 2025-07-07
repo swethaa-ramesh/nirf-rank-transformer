@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # NIRF Rank Transformer
 
 ## Overview
